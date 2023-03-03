@@ -11,5 +11,6 @@ public class management_login extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_management_login);
         getSupportActionBar().hide();
+
     }
 }
